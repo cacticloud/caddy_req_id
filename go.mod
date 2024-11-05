@@ -1,6 +1,6 @@
-module caddy_req_id
+module github.com/cacticloud/caddy_req_id
 
-go 1.22.4
+go 1.22.0
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
